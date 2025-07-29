@@ -1,0 +1,7 @@
+  COMO FAZER FATORAÇAO 
+              NUMERO PRIMO 2,3,5,7,11,13,17,19..
+EXERCICIO   
+FATORE O NUMERO 18             18 = 2
+                                9 = 3
+                                3 = 3   =  2X3X3 = 18
+                                1 = FIM
