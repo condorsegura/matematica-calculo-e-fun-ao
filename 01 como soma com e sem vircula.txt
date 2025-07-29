@@ -1,0 +1,15 @@
+
+COMO SOMA COM E SEM VIRGULA
+
+EXERCICIO 1 
+ SOME            ¹          ¹              ¹¹
+                 48        129     3,5     14,7
+                +27       +309    +2,2    + 8,53
+              = [75]     =[438]  =[5,7]  =[23,23]
+
+
+
+COMO SUBTRAIR COME SEM VIRGULA
+
+EXERCICIO 2 
+  

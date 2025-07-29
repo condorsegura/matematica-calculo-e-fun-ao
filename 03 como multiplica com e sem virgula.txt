@@ -1,0 +1,7 @@
+COMO MULTIPLICA COM E SEM VIRGULA LEMBRANDO DE SOMA OS VALORES E DE VER AS CASA DECIMAIS DA VIRGULA PRA COLOCA EXE. 03  04
+                                                 ¹                 ¹
+EXERCICIO 03      7                13             3,2                   2,4
+                           X  5            X   4         X  6,0               X  1,5
+                        = [ 35 ]       = [ 5 2 ]    = [  00 ]           = [ 120 ]
+                                                         = [ 192      ]         = [ 24   ]
+                                                         + [ 19,20    ]       = [  3,60 ]
