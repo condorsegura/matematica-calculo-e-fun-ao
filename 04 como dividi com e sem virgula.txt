@@ -1,7 +1,7 @@
 como dividi com e sem virgula 
 
 exercicio 12'5/5               32/[0],5            3,6/1,2
-          10  25              30  64               36/12
+          10  25               30  64               36/12
            25                  2[0]                 0  3
             0                   0
                            baixa o zero        tira a virgula 
