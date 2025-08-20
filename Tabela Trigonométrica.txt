@@ -1,7 +1,7 @@
-Relações Trigonométricas	30°	45°	60°
-Seno	1/2	√2/2	√3/2
-Cosseno	√3/2	√2/2	1/2
-Tangente	√3/3	1	√3
+Relações Trigonométricas	30°	  45° 	60°
+Seno	                   1/2	 √2/2	 √3/2
+Cosseno	                 √3/2	 √2/2	 1/2
+Tangente	               √3/3	  1   	√3
 
 
 ##################################################################################################
@@ -98,6 +98,7 @@ Confira abaixo a tabela trigonométrica completa:
 88°	                0,9994	0,0349	28,6363
 89°	                0,9998	0,0175	57,2900
 90°	                1	0	___
+
 
 
 
