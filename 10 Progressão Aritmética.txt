@@ -1,0 +1,84 @@
+Exercícios
+
+Exercício 1
+Dada a sequência 3, 7, 11, 15, ..., descubra a razão dessa progressão aritmética.
+
+Exercício 2
+Na sequência 5, 8, 11, 14, ..., quais são os termos a1, a2, a3 e a4?
+
+Exercício 3
+Qual é o 10º termo (a10) da PA 2, 5, 8, 11, ...?
+
+Exercício 4
+Se o primeiro termo de uma PA é 4 e o décimo termo é 31, qual é a razão dessa PA?
+Exercício 5
+Quantos termos tem a PA 6, 9, 12, ..., 60?
+___________________________________________________________________
+Resoluções
+Exercício 1
+Dada a sequência: 3, 7, 11, 15...
+Para descobrir a razão (r), basta subtrair um termo pelo anterior.
+Vamos fazer:
+7 - 3 = 4
+11 - 7 = 4
+15 - 11 = 4
+Como a diferença entre os termos é sempre a mesma, a razão da PA é:
+Resposta: r = 4
+______________________________________________________________________
+Exercício 2
+Sequência: 5, 8, 11, 14...
+a1 = primeiro termo = 5
+a2 = segundo termo = 8
+a3 = terceiro termo = 11
+a4 = quarto termo = 14
+Resposta:
+a1 = 5
+a2 = 8
+a3 = 11
+a4 = 14
+_______________________________________________________________________
+Exercício 3
+Queremos descobrir o décimo termo (a10) da PA: 2, 5, 8, 11...
+Primeiro, identificamos:
+a1 = 2
+r = 5 - 2 = 3
+Usamos a fórmula do termo geral da PA:
+an = a1 + (n - 1) * r
+Substituindo:
+a10 = 2 + (10 - 1) * 3
+a10 = 2 + 9 * 3
+a10 = 2 + 27
+a10 = 29
+Resposta: a10 = 29
+Exercício 4
+Sabemos:
+a1 = 4
+a10 = 31
+Queremos descobrir a razão r.
+Usamos a fórmula:
+an = a1 + (n - 1) * r
+Substituímos:
+31 = 4 + (10 - 1) * r
+31 = 4 + 9r
+31 - 4 = 9r
+27 = 9r
+r = 27 ÷ 9
+r = 3
+Resposta: r = 3
+_______________________________________________________________________
+Exercício 5
+Queremos saber quantos termos tem a PA: 6, 9, 12, ..., 60
+Sabemos:
+a1 = 6
+an = 60
+r = 9 - 6 = 3
+Usamos a fórmula:
+an = a1 + (n - 1) * r
+60 = 6 + (n - 1) * 3
+60 - 6 = (n - 1) * 3
+54 = (n - 1) * 3
+(n - 1) = 54 ÷ 3
+(n - 1) = 18
+n = 18 + 1
+n = 19
+Resposta: A PA tem 19 termos

@@ -1,0 +1,50 @@
+
+Exercícios
+
+Exercício 1
+Um retângulo tem 5 metros de comprimento e 3 metros de largura. Qual é a área desse
+retângulo?
+
+Exercício 2
+Calcule a área de um triângulo que tem 6 cm de base e 4 cm de altura.
+Exercício 3
+Um quadrado tem lados medindo 8 metros. Qual é a área desse quadrado?
+
+Exercício 4
+Uma sala tem formato de um trapézio com as seguintes medidas: base maior de 10
+metros, base menor de 6 metros e altura de 4 metros. Qual é a área dessa sala?
+
+Exercício 5
+Um terreno em forma de paralelogramo tem base de 12 metros e altura de 7 metros.
+Qual é a área total do terreno?
+___________________________________________________________________
+Resoluções
+Exercício 1
+Para calcular a área do retângulo, usamos a fórmula:
+Área = comprimento × largura
+Área = 5 × 3 = 15 metros quadrados
+Resposta: 15 m²
+______________________________________________________________________
+Exercício 2
+A fórmula da área do triângulo é:
+Área = (base × altura) ÷ 2
+Área = (6 × 4) ÷ 2 = 24 ÷ 2 = 12 centímetros quadrados
+Resposta: 12 cm²
+_______________________________________________________________________
+Exercício 3
+A fórmula da área do quadrado é:
+Área = lado × lado
+Área = 8 × 8 = 64 metros quadrados
+Resposta: 64 m²
+Exercício 4
+Para calcular a área do trapézio, usamos a fórmula:
+Área = (base maior + base menor) × altura ÷ 2
+Área = (10 + 6) × 4 ÷ 2
+Área = 16 × 4 ÷ 2 = 64 ÷ 2 = 32 metros quadrados
+Resposta: 32 m²
+_______________________________________________________________________
+Exercício 5
+Para calcular a área do paralelogramo, usamos a fórmula:
+Área = base × altura
+Área = 12 × 7 = 84 metros quadrados
+Resposta: 84 m²

@@ -1,0 +1,105 @@
+
+Exercícios
+
+Exercício 1
+Num triângulo com lados medindo 5 cm, 7 cm e 8 cm, determine o cosseno do ângulo
+oposto ao lado de 8 cm usando a Lei dos Cossenos.
+
+Exercício 2
+Num triângulo ABC, os lados medem AB = 10 cm, BC = 6 cm e AC = 9 cm. Calcule a
+medida do ângulo B̂ usando a Lei dos Cossenos.
+
+Exercício 3
+No triângulo PQR, os lados medem PQ = 13 cm, QR = 14 cm e PR = 15 cm. Calcule a
+medida do ângulo Q̂.
+
+Exercício 4
+Em um triângulo XYZ, os lados medem 8 cm, 8 cm e 10 cm. Determine o ângulo entre os
+dois lados de 8 cm usando a Lei dos Cossenos.
+
+Exercício 5
+Um triângulo tem lados medindo 12 cm, 15 cm e 20 cm. Calcule todos os três ângulos
+internos do triângulo.
+___________________________________________________________________
+Resoluções
+Exercício 1
+Temos os lados: a = 5, b = 7, c = 8
+Vamos usar a Lei dos Cossenos para encontrar o ângulo oposto ao lado c = 8:
+Fórmula:
+c² = a² + b² - 2ab·cos(θ)
+Substituindo os valores:
+8² = 5² + 7² - 2·5·7·cos(θ)
+64 = 25 + 49 - 70·cos(θ)
+64 = 74 - 70·cos(θ)
+70·cos(θ) = 74 - 64
+70·cos(θ) = 10
+cos(θ) = 10 / 70 = 0,1428
+Agora usamos a calculadora:
+θ ≈ arccos(0,1428) ≈ 81,8°
+Resposta: o ângulo oposto ao lado de 8 cm mede aproximadamente 81,8 graus.
+______________________________________________________________________
+Exercício 2
+AB = 10, BC = 6, AC = 9
+Queremos o ângulo B̂ (oposto ao lado AC = 9)
+Fórmula:
+AC² = AB² + BC² - 2·AB·BC·cos(B)
+9² = 10² + 6² - 2·10·6·cos(B)
+81 = 100 + 36 - 120·cos(B)
+81 = 136 - 120·cos(B)
+120·cos(B) = 136 - 81
+120·cos(B) = 55
+cos(B) = 55 / 120 ≈ 0,4583
+B ≈ arccos(0,4583) ≈ 62,7°
+Resposta: o ângulo B̂ mede aproximadamente 62,7 graus.
+Exercício 3
+PQ = 13, QR = 14, PR = 15
+Vamos encontrar o ângulo Q̂ (oposto ao lado PR = 15)
+Fórmula:
+c² = a² + b² - 2ab·cos(Q)
+15² = 13² + 14² - 2·13·14·cos(Q)
+225 = 169 + 196 - 364·cos(Q)
+225 = 365 - 364·cos(Q)
+364·cos(Q) = 365 - 225
+364·cos(Q) = 140
+cos(Q) = 140 / 364 ≈ 0,3846
+Q ≈ arccos(0,3846) ≈ 67,3°
+Resposta: o ângulo Q̂ mede aproximadamente 67,3 graus.
+_______________________________________________________________________
+Exercício 4
+Lados: 8 cm, 8 cm, 10 cm
+Vamos encontrar o ângulo entre os lados iguais de 8 cm (o ângulo oposto ao lado de 10
+cm)
+Fórmula:
+c² = a² + b² - 2ab·cos(θ)
+10² = 8² + 8² - 2·8·8·cos(θ)
+100 = 64 + 64 - 128·cos(θ)
+100 = 128 - 128·cos(θ)
+128·cos(θ) = 128 - 100
+128·cos(θ) = 28
+cos(θ) = 28 / 128 ≈ 0,21875
+θ ≈ arccos(0,21875) ≈ 77,3°
+Resposta: o ângulo entre os lados de 8 cm mede aproximadamente 77,3 graus.
+_______________________________________________________________________
+Exercício 5
+Lados: a = 12 cm, b = 15 cm, c = 20 cm
+Vamos calcular os três ângulos:
+Primeiro, ângulo oposto a c = 20:
+c² = a² + b² - 2ab·cos(θ)
+400 = 144 + 225 - 2·12·15·cos(C)
+400 = 369 - 360·cos(C)
+360·cos(C) = 369 - 400 = -31
+cos(C) = -31 / 360 ≈ -0,0861
+C ≈ arccos(-0,0861) ≈ 94,9°
+Segundo, ângulo oposto a b = 15:
+b² = a² + c² - 2ac·cos(B)
+225 = 144 + 400 - 2·12·20·cos(B)
+225 = 544 - 480·cos(B)
+480·cos(B) = 544 - 225 = 319
+cos(B) = 319 / 480 ≈ 0,6646
+B ≈ arccos(0,6646) ≈ 48,3°
+Terceiro, ângulo oposto a a = 12:
+A = 180° - (C + B) = 180 - (94,9 + 48,3) = 36,8°
+Resposta:
+Ângulo A ≈ 36,8°
+Ângulo B ≈ 48,3°
+Ângulo C ≈ 94,9°

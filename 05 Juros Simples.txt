@@ -1,0 +1,69 @@
+
+Exercícios
+
+Exercício 1:
+Calcule o juro simples que será obtido em um empréstimo de R$ 1.000,00 aplicado por
+6 meses a uma taxa de 2% ao mês.
+
+Exercício 2:
+Uma pessoa investiu R$ 500,00 a uma taxa de juros simples de 1,5% ao mês durante
+10 meses. Qual o valor dos juros que ela vai receber ao final desse período?
+
+Exercício 3:
+Qual o valor total (capital + juros) de um investimento de R$ 2.000,00 aplicado a juros
+simples com taxa de 3% ao mês durante 4 meses?
+
+Exercício 4:
+Um empréstimo de R$ 1.500,00 gerou R$ 135,00 de juros simples após 9 meses. Qual
+foi a taxa mensal de juros aplicada?
+____________________________________________________________________
+Resoluções:
+Exercício 1:
+Capital (C) = R$ 1.000,00
+Tempo (t) = 6 meses
+Taxa de juros (i) = 2% ao mês = 0,02 (em decimal)
+J = C × i × t
+Cálculo:
+J = 1.000 × 0.02 × 6
+J = 1.000 × 0.12
+J = R$ 120,00
+Resposta: O juro simples é R$ 120,00.
+Exercício 2:
+C = R$ 500,00
+i = 1,5% ao mês = 0,015
+t = 10 meses
+J = C × i × t
+Cálculo:
+J = 500 × 0.015 × 10
+J = 500 × 0.15
+J = R$ 75,00
+Resposta: Os juros recebidos serão R$ 75,00.
+___________________________________________________________________
+Exercício 3:
+C = R$ 2.000,00
+i = 3% ao mês = 0,03
+t = 4 meses
+Primeiro, calculamos o juro:
+J = C × i × t
+J = 2.000 × 0.03 × 4
+J = 2.000 × 0.12
+J = R$ 240,00
+Valor total (montante) = Capital + Juros
+M = C + J
+M = 2.000 + 240
+M = R$ 2.240,00
+Resposta: O valor total do investimento será R$ 2.240,00.
+_______________________________________________________________________
+Exercício 4:
+C = R$ 1.500,00
+J = R$ 135,00
+t = 9 meses
+i = ?
+Usando a fórmula dos juros simples:
+J = C × i × t
+Isolando i:
+i = J / (C × t)
+i = 135 / (1.500 × 9)
+i = 135 / 13.500
+i = 0,01 = 1%
+Resposta: A taxa mensal de juros foi 1% ao mês.

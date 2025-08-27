@@ -1,0 +1,89 @@
+
+Exercícios
+
+Exercício 1
+Observe o triângulo retângulo com lados medindo 3 cm, 4 cm e 5 cm. Qual é a
+hipotenusa?
+
+Exercício 2
+Em um triângulo retângulo, os catetos medem 6 cm e 8 cm. Qual é o valor da
+hipotenusa?
+
+Exercício 3
+A hipotenusa de um triângulo retângulo mede 13 cm, e um dos catetos mede 5 cm. Qual
+é o valor do outro cateto?
+
+Exercício 4
+Em um triângulo retângulo, a hipotenusa mede 25 cm e um dos catetos mede 20 cm.
+Qual é o valor do outro cateto?
+
+Exercício 5
+Um triângulo retângulo tem um cateto de 9 cm e hipotenusa de 15 cm. Descubra o valor
+do outro cateto e diga se esse triângulo pode ser semelhante a um triângulo com catetos
+de 3 cm e 4 cm.
+___________________________________________________________________
+Resoluções
+Exercício 1
+Temos os lados: 3 cm, 4 cm e 5 cm.
+A hipotenusa é sempre o lado oposto ao ângulo reto e também o maior lado do triângulo
+retângulo.
+Portanto, a hipotenusa é 5 cm.
+______________________________________________________________________
+Exercício 2
+Usamos o Teorema de Pitágoras:
+a² + b² = c²
+onde a e b são os catetos e c é a hipotenusa.
+a = 6
+b = 8
+6² + 8² = c²
+36 + 64 = c²
+100 = c²
+c = √100
+c = 10 cm
+Resposta: A hipotenusa mede 10 cm.
+_______________________________________________________________________
+Exercício 3
+Sabemos que a hipotenusa (c) é 13 cm e um dos catetos (a) é 5 cm. Vamos encontrar o
+outro cateto (b).
+Usamos o Teorema de Pitágoras:
+a² + b² = c²
+5² + b² = 13²
+25 + b² = 169
+b² = 169 - 25
+b² = 144
+b = √144
+b = 12 cm
+Resposta: O outro cateto mede 12 cm.
+Exercício 4
+Hipotenusa (c) = 25 cm
+Cateto (a) = 20 cm
+Vamos encontrar o outro cateto (b):
+a² + b² = c²
+20² + b² = 25²
+400 + b² = 625
+b² = 625 - 400
+b² = 225
+b = √225
+b = 15 cm
+Resposta: O outro cateto mede 15 cm.
+_______________________________________________________________________
+Exercício 5
+Cateto (a) = 9 cm
+Hipotenusa (c) = 15 cm
+Vamos encontrar o outro cateto (b):
+a² + b² = c²
+9² + b² = 15²
+81 + b² = 225
+b² = 225 - 81
+b² = 144
+b = √144
+b = 12 cm
+Resposta: O outro cateto mede 12 cm.
+Agora, vamos ver se esse triângulo é semelhante ao triângulo com catetos de 3 cm e 4
+cm.
+No triângulo atual, os catetos são 9 cm e 12 cm.
+9 ÷ 3 = 3
+12 ÷ 4 = 3
+Como a razão entre os lados é a mesma, os triângulos são semelhantes.
+✅ Resposta final: O outro cateto mede 12 cm e o triângulo é semelhante ao triângulo de
+catetos 3 cm e 4 cm.

@@ -1,0 +1,65 @@
+
+Exercícios
+
+Exercício 1
+Um produto custa R$ 200,00. Qual é o valor de 10% desse produto?
+
+Exercício 2
+Se uma camiseta teve um desconto de 20% e agora custa R$ 64,00, qual era o preço
+original?
+
+Exercício 3
+Carlos tinha R$ 500,00 e gastou 15% do valor em livros. Quanto ele gastou?
+
+Exercício 4
+Um salário de R$ 2.500,00 teve um aumento de 12%. Qual é o valor do salário após o
+aumento?
+______________________________________________________________________
+Resoluções
+Exercício 1
+Um produto custa R$ 200,00. Qual é o valor de 10% desse produto?
+Passo 1:
+Para calcular 10% de R$ 200,00, basta multiplicar 200 por 10 e dividir por 100.
+Cálculo:
+200 × 10 ÷ 100 = 20
+Resposta:
+O valor de 10% do produto é R$ 20,00.
+Exercício 2
+Se uma camiseta teve um desconto de 20% e agora custa R$ 64,00, qual era o preço
+original?
+Passo 1:
+Se a camiseta teve 20% de desconto, ela agora vale 80% do valor original (100% -
+20%).
+Passo 2:
+80% do valor original = R$ 64,00
+Vamos chamar o valor original de X.
+Então:
+80% de X = 64
+(80 ÷ 100) × X = 64
+0,8 × X = 64
+Passo 3:
+X = 64 ÷ 0,8
+X = 80
+Resposta:
+O preço original da camiseta era R$ 80,00.
+___________________________________________________________________
+Exercício 3
+Carlos tinha R$ 500,00 e gastou 15% do valor em livros. Quanto ele gastou?
+Passo 1:
+Vamos calcular 15% de R$ 500,00.
+Cálculo:
+500 × 15 ÷ 100 = 75
+Resposta:
+Carlos gastou R$ 75,00 em livros.
+Exercício 4
+Um salário de R$ 2.500,00 teve um aumento de 12%. Qual é o valor do salário após o
+aumento?
+Passo 1:
+Vamos calcular 12% de R$ 2.500,00.
+Cálculo:
+2.500 × 12 ÷ 100 = 300
+Passo 2:
+Agora somamos esse valor ao salário original:
+2.500 + 300 = 2.800
+Resposta:
+O salário após o aumento é R$ 2.800,00.

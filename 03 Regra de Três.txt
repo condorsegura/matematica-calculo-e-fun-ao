@@ -1,0 +1,81 @@
+
+Exercícios
+Exercício 1
+Se 3 lápis custam R$ 6,00, quanto custam 5 lápis?
+
+Exercício 2
+Uma torneira enche um balde de 20 litros em 10 minutos. Em quantos minutos ela
+encherá um balde de 30 litros?
+
+Exercício 3
+Com R$ 80,00 é possível comprar 4 livros. Quantos livros podem ser comprados com R$
+140,00?
+
+Exercício 4
+Uma máquina produz 120 peças em 3 horas. Quantas peças ela produz em 5 horas?
+_______________________________________________________________________
+Resoluções
+Exercício 1 – Resolução passo a passo:
+Se 3 lápis custam R$ 6,00, queremos saber quanto custam 5 lápis.
+Passo 1: Montamos a proporção.
+3 lápis → R$ 6,00
+5 lápis → R$ x
+Passo 2: Regra de três simples e direta (proporcionalidade direta).
+3 está para 6, assim como 5 está para x.
+Montamos a conta:
+3 / 5 = 6 / x
+Passo 3: Multiplicamos cruzado:
+3 · x = 5 · 6
+3x = 30
+Passo 4: Isolamos o x:
+x = 30 / 3
+x = 10
+Resposta: 5 lápis custam R$ 10,00.
+___________________________________________________________________
+Exercício 2 – Resolução passo a passo:
+Uma torneira enche 20 litros em 10 minutos.
+Quantos minutos para encher 30 litros?
+Passo 1: Montamos a proporção.
+20 L → 10 min
+30 L → x min
+Passo 2: É proporcionalidade direta (quanto mais litros, mais tempo).
+20 / 30 = 10 / x
+Passo 3: Multiplicação cruzada:
+20x = 30 · 10
+20x = 300
+Passo 4: Dividimos:
+x = 300 / 20
+x = 15
+Resposta: A torneira levará 15 minutos para encher 30 litros.
+_______________________________________________________________________
+Exercício 3 – Resolução passo a passo:
+Com R$ 80,00 compram-se 4 livros.
+Com R$ 140,00, quantos livros dá para comprar?
+Passo 1: Proporção:
+R$ 80 → 4 livros
+R$ 140 → x livros
+Passo 2: Regra de três direta.
+80 / 140 = 4 / x
+Passo 3: Multiplicação cruzada:
+80x = 140 · 4
+80x = 560
+Passo 4: Dividimos:
+x = 560 / 80
+x = 7
+Resposta: Dá para comprar 7 livros com R$ 140,00.
+_______________________________________________________________________
+Exercício 4 – Resolução passo a passo:
+Uma máquina faz 120 peças em 3 horas.
+Quantas ela faz em 5 horas?
+Passo 1: Proporção:
+3 horas → 120 peças
+5 horas → x peças
+Passo 2: Direta (mais tempo = mais peças).
+3 / 5 = 120 / x
+Passo 3: Multiplicação cruzada:
+3x = 5 · 120
+3x = 600
+Passo 4: Divisão:
+x = 600 / 3
+x = 200
+Resposta: A máquina faz 200 peças em 5 horas.

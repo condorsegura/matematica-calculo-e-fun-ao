@@ -1,0 +1,66 @@
+
+Exercícios
+
+Exercício 1
+Considere a matriz A abaixo:
+A = [ 2 4 6 ]
+ [ 1 3 5 ]
+a) Qual é a ordem da matriz A?
+b) Qual é o elemento da 1ª linha e 2ª coluna?
+c) Qual é o elemento da 2ª linha e 3ª coluna?
+
+Exercício 2
+Dada a matriz B = [ 1 0 0 ]
+ [ 0 1 0 ]
+ [ 0 0 1 ]
+a) Que tipo especial de matriz é essa?
+b) Qual é a sua ordem?
+c) Quais são os elementos da diagonal principal?
+
+Exercício 3
+Considere a matriz C = [ 5 7 9 ]
+ [ 3 2 4 ]
+ [ 8 6 1 ]
+a) Quais são os elementos da diagonal principal?
+b) Quais são os elementos da diagonal secundária?
+
+Exercício 4
+A matriz D é dada por:
+[ 2 4 ]
+[ 6 8 ]
+[ 10 12 ]
+a) Qual é a ordem da matriz D?
+b) Qual o elemento na 3ª linha e 2ª coluna?
+Exercício 5
+Dada a matriz E = [ 1 2 ]
+ [ 3 4 ]
+Encontre a matriz transposta Eᵗ.
+_______________________________________________________________________
+Resoluções
+Exercício 1
+a) A matriz tem 2 linhas e 3 colunas, então sua ordem é 2x3.
+b) 1ª linha e 2ª coluna: elemento = 4.
+c) 2ª linha e 3ª coluna: elemento = 5.
+______________________________________________________________________
+Exercício 2
+a) Essa é uma matriz identidade. Ela tem 1 na diagonal principal e 0 nos outros lugares.
+b) Ordem: 3x3 (3 linhas e 3 colunas).
+c) Diagonal principal: 1, 1, 1 (são os elementos B1,1, B2,2 e B3,3.
+_______________________________________________________________________
+Exercício 3
+a) Diagonal principal: os elementos que vão do canto superior esquerdo ao inferior
+direito: 5, 2, 1.
+b) Diagonal secundária: os elementos do canto superior direito ao inferior esquerdo: 9, 2,
+8.
+Exercício 4
+a) A matriz tem 3 linhas e 2 colunas. Ordem: 3x2.
+b) 3ª linha e 2ª coluna = 12.
+_______________________________________________________________________
+Exercício 5
+A transposta de uma matriz é obtida trocando linhas por colunas.
+Matriz E =
+[ 1 2 ]
+[ 3 4 ]
+Transposta Eᵗ =
+[ 1 3 ]
+[ 2 4 ]

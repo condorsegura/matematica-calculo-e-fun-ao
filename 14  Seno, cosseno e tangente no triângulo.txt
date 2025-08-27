@@ -1,0 +1,64 @@
+
+Exercícios
+
+Exercício 1
+Em um triângulo retângulo, o ângulo agudo mede 30°. A hipotenusa mede 10 cm. Qual é
+o valor do cateto oposto a esse ângulo?
+
+Exercício 2
+Em um triângulo retângulo, um dos ângulos agudos mede 60° e o cateto adjacente a
+esse ângulo mede 8 cm. Calcule o valor da hipotenusa.
+
+Exercício 3
+Determine o valor da tangente de um ângulo de 45° em um triângulo retângulo.
+
+Exercício 4
+No triângulo retângulo ABC, o ângulo agudo A mede 60° e a hipotenusa mede 20 cm.
+Calcule o comprimento do cateto adjacente ao ângulo A.
+
+Exercício 5
+Em um triângulo retângulo, o ângulo agudo mede 45°, e o cateto oposto a esse ângulo
+mede 12 cm. Determine o valor da hipotenusa e do cateto adjacente.
+___________________________________________________________________
+Resoluções
+Exercício 1
+Dados: Ângulo = 30°, hipotenusa = 10 cm
+Fórmula: seno = cateto oposto / hipotenusa
+sen(30°) = 0,5
+0,5 = cateto oposto / 10
+Multiplicamos os dois lados por 10:
+cateto oposto = 0,5 × 10 = 5 cm
+Resposta: 5 cm
+______________________________________________________________________
+Exercício 2
+Dados: Ângulo = 60°, cateto adjacente = 8 cm
+Fórmula: cosseno = cateto adjacente / hipotenusa
+cos(60°) = 0,5
+0,5 = 8 / hipotenusa
+Multiplicamos cruzado:
+0,5 × hipotenusa = 8
+hipotenusa = 8 / 0,5 = 16 cm
+Resposta: 16 cm
+_______________________________________________________________________
+Exercício 3
+Fórmula: tangente = cateto oposto / cateto adjacente
+Para 45°, os catetos são iguais
+Portanto, tan(45°) = 1
+Resposta: 1
+_______________________________________________________________________
+Exercício 4
+Dados: Ângulo A = 60°, hipotenusa = 20 cm
+Fórmula: cosseno = cateto adjacente / hipotenusa
+cos(60°) = 0,5
+0,5 = cateto adjacente / 20
+cateto adjacente = 0,5 × 20 = 10 cm
+Resposta: 10 cm
+_______________________________________________________________________
+Exercício 5
+Ângulo = 45°, cateto oposto = 12 cm
+Em um triângulo com 45°, os catetos são iguais
+Portanto, cateto adjacente = 12 cm
+Para encontrar a hipotenusa, usamos o Teorema de Pitágoras:
+hipotenusa² = 12² + 12² = 144 + 144 = 288
+hipotenusa = √288 ≈ 16,97 cm (arredondado)
+Resposta: hipotenusa ≈ 16,97 cm, cateto adjacente = 12 cm

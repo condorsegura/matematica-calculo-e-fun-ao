@@ -1,0 +1,67 @@
+
+Exercícios
+
+Exercício 1
+Um capital de R$ 1.000,00 é aplicado a uma taxa de juros compostos de 10% ao mês
+durante 3 meses. Qual será o montante final ao fim do período?
+
+Exercício 2
+Quanto tempo leva para um capital dobrar de valor a uma taxa de juros compostos de
+20% ao mês?
+
+Exercício 3
+Um valor foi aplicado por 4 meses e rendeu um montante de R$ 2.073,60. Sabendo que
+a taxa de juros compostos foi de 10% ao mês, qual era o capital inicial?
+
+Exercício 4
+Uma pessoa aplicou R$ 2.000,00 a uma taxa de juros compostos de 5% ao mês. Qual
+será o valor após 6 meses?
+____________________________________________________________________
+Exercício 1:
+Fórmula dos juros compostos:
+M = C × (1 + i)^t
+Onde:
+M = montante
+C = capital
+i = taxa em decimal
+t = tempo (em meses)
+Aplicando os valores:
+C = 1.000
+i = 10% = 0,10
+t = 3
+M = 1.000 × (1 + 0,10)^3
+M = 1.000 × (1,10)^3
+M = 1.000 × 1,331
+M = R$ 1.331,00
+___________________________________________________________________
+Exercício 2:
+Queremos saber o tempo t para o capital dobrar, ou seja,
+M = 2 × C
+Fórmula: M = C × (1 + i)^t
+Substituindo:
+2C = C × (1 + 0,20)^t
+Divide os dois lados por C:
+2 = (1,20)^t
+Agora, usamos logaritmo:
+log(2) = t × log(1,20)
+t = log(2) / log(1,20)
+t ≈ 0,3010 / 0,0792
+t ≈ 3,8 meses
+Exercício 3:
+Fórmula: M = C × (1 + i)^t
+M = 2.073,60
+i = 10% = 0,10
+t = 4
+2.073,60 = C × (1,10)^4
+2.073,60 = C × 1,4641
+C = 2.073,60 / 1,4641
+C ≈ R$ 1.416,00
+_______________________________________________________________________
+Exercício 4:
+C = 2.000
+i = 5% = 0,05
+t = 6
+M = C × (1 + i)^t
+M = 2.000 × (1,05)^6
+M = 2.000 × 1,3401
+M ≈ R$ 2.680,20

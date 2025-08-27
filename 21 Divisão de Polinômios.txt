@@ -1,0 +1,71 @@
+
+Exercícios
+
+Exercício 1
+Divida o polinômio (x² + 5x + 6) por (x + 2)
+
+Exercício 2
+Divida o polinômio (3x² + 9x) por 3x
+
+Exercício 3
+Divida o polinômio (x³ - 1) por (x - 1)
+
+Exercício 4
+Divida o polinômio (2x² + 4x + 2) por 2
+
+Exercício 5
+Divida o polinômio (x² + 2x) por x
+
+Resoluções
+Exercício 1
+Vamos dividir (x² + 5x + 6) por (x + 2) usando a técnica de divisão de polinômios,
+parecida com a conta armada da escola:
+Passo 1: Veja o primeiro termo do dividendo (x²) e divida pelo primeiro termo do divisor
+(x).
+x² ÷ x = x
+Passo 2: Multiplique esse resultado (x) pelo divisor (x + 2):
+x × (x + 2) = x² + 2x
+Passo 3: Subtraia o resultado da multiplicação do polinômio original:
+(x² + 5x + 6) - (x² + 2x) = 3x + 6
+Passo 4: Repita o processo. Agora:
+3x ÷ x = 3
+3 × (x + 2) = 3x + 6
+Passo 5: Subtraia novamente:
+(3x + 6) - (3x + 6) = 0
+Resposta final: x + 3
+______________________________________________________________________
+Exercício 2
+Vamos dividir (3x² + 9x) por 3x. Aqui é uma divisão simples, termo a termo.
+Passo 1: Divida o primeiro termo:
+3x² ÷ 3x = x
+Passo 2: Divida o segundo termo:
+9x ÷ 3x = 3
+Resposta final: x + 3
+_______________________________________________________________________
+Exercício 3
+Vamos dividir (x³ - 1) por (x - 1). Esse é um caso famoso que se resolve por divisão de
+polinômio mesmo.
+Passo 1: x³ ÷ x = x²
+Multiplicamos: x² × (x - 1) = x³ - x²
+Subtraindo: (x³ - 1) - (x³ - x²) = x² - 1
+Passo 2: x² ÷ x = x
+Multiplicamos: x × (x - 1) = x² - x
+Subtraindo: (x² - 1) - (x² - x) = x - 1
+Passo 3: x ÷ x = 1
+Multiplicamos: 1 × (x - 1) = x - 1
+Subtraindo: (x - 1) - (x - 1) = 0
+Resposta final: x² + x + 1
+_______________________________________________________________________
+Exercício 4
+Aqui temos: (2x² + 4x + 2) ÷ 2
+Essa divisão é feita termo a termo, dividindo cada parte do polinômio por 2:
+2x² ÷ 2 = x²
+4x ÷ 2 = 2x
+2 ÷ 2 = 1
+Resposta final: x² + 2x + 1
+_______________________________________________________________________
+Exercício 5
+Vamos dividir (x² + 2x) por x:
+x² ÷ x = x
+2x ÷ x = 2
+Resposta final: x + 2

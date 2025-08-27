@@ -1,0 +1,48 @@
+Exercícios
+
+Exercício 1
+Considere a função f(x) = x² - 4x + 3.
+Monte uma tabela com valores de x e y e marque os pontos no plano cartesiano.
+
+Exercício 2
+Considere a função f(x) = -x² + 2x + 3.
+Monte uma tabela com valores de x e y e marque os pontos no plano cartesiano.
+___________________________________________________________________
+Resoluções
+Exercício 1:
+Função: f(x) = x² - 4x + 3
+Vamos escolher valores de x de -1 até 5.
+Calculamos o valor de y substituindo x na função:
+Quando x = -1
+(-1)² - 4×(-1) + 3 = 1 + 4 + 3 = 8
+Quando x = 0
+0² - 4×0 + 3 = 3
+Quando x = 1
+1² - 4×1 + 3 = 1 - 4 + 3 = 0
+Quando x = 2
+2² - 4×2 + 3 = 4 - 8 + 3 = -1
+Quando x = 3
+3² - 4×3 + 3 = 9 - 12 + 3 = 0
+Quando x = 4
+4² - 4×4 + 3 = 16 - 16 + 3 = 3
+Quando x = 5
+5² - 4×5 + 3 = 25 - 20 + 3 = 8
+Pontos a marcar no gráfico:
+(-1,8), (0,3), (1,0), (2,-1), (3,0), (4,3), (5,8)
+_________________________________________________________________
+Exercício 2:
+Escolhemos valores de x de -1 até 4.
+Quando x = -1
+-(-1)² + 2×(-1) + 3 = -1 - 2 + 3 = 0
+Quando x = 0
+-(0)² + 2×0 + 3 = 3
+Quando x = 1
+-1² + 2×1 + 3 = -1 + 2 + 3 = 4
+Quando x = 2
+-4 + 4 + 3 = 3
+Quando x = 3
+-9 + 6 + 3 = 0
+Quando x = 4
+-16 + 8 + 3 = -5
+Pontos a marcar no gráfico:
+(-1,0), (0,3), (1,4), (2,3), (3,0), (4,-5)

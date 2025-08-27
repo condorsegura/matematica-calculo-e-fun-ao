@@ -1,0 +1,86 @@
+
+Exercícios
+
+Exercício 1
+Um cubo possui 8 vértices e 12 arestas. Quantas faces ele possui? Use a relação de
+Euler para resolver.
+
+Exercício 2
+Um prisma triangular possui 5 faces e 9 arestas. Quantos vértices ele possui?
+
+Exercício 3
+Um poliedro tem 6 vértices e 8 faces. Quantas arestas ele possui? Verifique se esse
+poliedro satisfaz a relação de Euler.
+
+Exercício 4
+Um poliedro apresenta 20 arestas e 12 vértices. Determine o número de faces e verifique
+se a relação de Euler é válida.
+
+Exercício 5
+Um sólido geométrico tem 10 faces e 16 vértices. Qual o número de arestas? Após isso,
+diga se esse poliedro poderia ser convexo (isto é, se satisfaz a relação de Euler).
+___________________________________________________________________
+Resoluções
+Exercício 1
+Sabemos que a relação de Euler para poliedros convexos é:
+V − A + F = 2
+Onde:
+V = número de vértices
+A = número de arestas
+F = número de faces
+Para o cubo:
+V = 8
+A = 12
+Substituindo na fórmula:
+8 − 12 + F = 2
+−4 + F = 2
+F = 2 + 4
+F = 6
+Resposta: o cubo possui 6 faces.
+______________________________________________________________________
+Exercício 2
+Relação de Euler:
+V − A + F = 2
+Dados:
+F = 5
+A = 9
+Substituindo:
+V − 9 + 5 = 2
+V − 4 = 2
+V = 6
+Resposta: o prisma triangular tem 6 vértices.
+_______________________________________________________________________
+Exercício 3
+V = 6
+F = 8
+Usando a relação de Euler:
+6 − A + 8 = 2
+14 − A = 2
+A = 14 − 2
+A = 12
+Agora verificamos se a relação se mantém:
+V − A + F = 6 − 12 + 8 = 2 → sim, satisfaz Euler.
+Resposta: o poliedro tem 12 arestas e é convexo.
+_______________________________________________________________________
+Exercício 4
+V = 12
+A = 20
+Usando a relação de Euler:
+12 − 20 + F = 2
+−8 + F = 2
+F = 2 + 8
+F = 10
+Resposta: o poliedro tem 10 faces.
+Verificando Euler: 12 − 20 + 10 = 2 → verdadeiro. Portanto, o poliedro pode ser convexo.
+_______________________________________________________________________
+Exercício 5
+F = 10
+V = 16
+Usando Euler:
+16 − A + 10 = 2
+26 − A = 2
+A = 26 − 2
+A = 24
+Agora verificamos se a relação de Euler se mantém:
+16 − 24 + 10 = 2 → sim, satisfaz Euler.
+Resposta: o poliedro tem 24 arestas e pode ser convexo.

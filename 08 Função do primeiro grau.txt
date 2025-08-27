@@ -1,0 +1,49 @@
+
+Exercícios
+Exercício 1
+Marque o ponto A(2, 3) no plano cartesiano.
+
+Exercício 2
+Marque o ponto B(−4, 1) no plano cartesiano.
+
+Exercício 3
+Marque o ponto C(0, −5) no plano cartesiano.
+
+Exercício 4
+Marque o ponto D(−2, −3) no plano cartesiano.
+____________________________________________________________________
+Resoluções
+Exercício 1:
+Passo 1: Observe o par ordenado (2, 3).
+→ O primeiro número (2) representa a coordenada no eixo X (horizontal).
+→ O segundo número (3) representa a coordenada no eixo Y (vertical).
+Passo 2: No plano cartesiano, parta da origem (0, 0).
+→ Caminhe 2 unidades para a direita (positivo no eixo X).
+→ Depois, suba 3 unidades (positivo no eixo Y).
+→ Marque o ponto A ali.
+__________________________________________________________________
+Exercício 2:
+Passo 1: Observe o par ordenado (−4, 1).
+→ O −4 é a coordenada X (para a esquerda, pois é negativo).
+→ O 1 é a coordenada Y (para cima).
+Passo 2:
+→ A partir da origem (0, 0), ande 4 unidades para a esquerda.
+→ Depois, suba 1 unidade.
+→ Marque o ponto B.
+_______________________________________________________________________
+Exercício 3:
+Passo 1: O ponto tem coordenada X igual a 0.
+→ Isso significa que ele está exatamente sobre o eixo Y.
+→ O −5 indica que devemos descer 5 unidades.
+Passo 2:
+→ A partir da origem, não ande para os lados.
+→ Apenas desça 5 unidades no eixo Y.
+→ Marque o ponto C.
+_______________________________________________________________________
+Exercício 4:
+Passo 1: A coordenada X é −2 → vá 2 unidades para a esquerda.
+→ A coordenada Y é −3 → desça 3 unidades.
+Passo 2:
+→ A partir da origem, vá 2 unidades para a esquerda.
+→ Depois, desça 3 unidades.
+→ Marque o ponto D.

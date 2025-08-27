@@ -1,0 +1,73 @@
+
+Exercícios
+
+Exercício 1
+Calcule a distância do ponto A(2, 3) até a reta de equação r: 3x - 4y + 5 = 0.
+
+Exercício 2
+Calcule a distância do ponto B(1, -2) até a reta de equação r: x + y - 1 = 0.
+
+Exercício 3
+Qual é a distância do ponto C(0, 0) até a reta de equação r: 5x + 12y - 13 = 0?
+
+Exercício 4
+Calcule a distância do ponto D(3, -1) até a reta de equação r: 7x + 24y + 10 = 0. (Dica:
+repare que os coeficientes lembram o Teorema de Pitágoras!)
+
+Exercício 5
+Qual é a distância do ponto E(5, 7) até a reta de equação r: -2x + y - 3 = 0?
+___________________________________________________________________
+Resoluções
+Para resolver todos os exercícios, usamos a fórmula da distância de um ponto (x₀, y₀) até
+a reta Ax + By + C = 0:
+Distância = |Ax₀ + By₀ + C| / √(A² + B²)
+Exercício 1
+Ponto A(2, 3), reta: 3x - 4y + 5 = 0
+A = 3, B = -4, C = 5
+x₀ = 2, y₀ = 3
+Passo 1: Substituir na fórmula:
+Distância = |3(2) - 4(3) + 5| / √(3² + (-4)²)
+= |6 - 12 + 5| / √(9 + 16)
+= |-1| / √25
+= 1 / 5
+Resposta: A distância é 0,2 unidades.
+______________________________________________________________________
+Exercício 2
+Ponto B(1, -2), reta: x + y - 1 = 0
+A = 1, B = 1, C = -1
+x₀ = 1, y₀ = -2
+Distância = |1(1) + 1(-2) -1| / √(1² + 1²)
+= |1 - 2 - 1| / √2
+= |-2| / √2
+= 2 / √2
+= √2 ≈ 1,41
+Resposta: Aproximadamente 1,41 unidades.
+_______________________________________________________________________
+Exercício 3
+Ponto C(0, 0), reta: 5x + 12y - 13 = 0
+A = 5, B = 12, C = -13
+x₀ = 0, y₀ = 0
+Distância = |5(0) + 12(0) -13| / √(25 + 144)
+= |-13| / √169
+= 13 / 13 = 1
+Resposta: A distância é 1 unidade.
+_______________________________________________________________________
+Exercício 4
+Ponto D(3, -1), reta: 7x + 24y + 10 = 0
+A = 7, B = 24, C = 10
+x₀ = 3, y₀ = -1
+Distância = |7(3) + 24(-1) + 10| / √(49 + 576)
+= |21 - 24 + 10| / √625
+= |7| / 25
+= 0,28
+Resposta: A distância é 0,28 unidades.
+_______________________________________________________________________
+Exercício 5
+Ponto E(5, 7), reta: -2x + y - 3 = 0
+A = -2, B = 1, C = -3
+x₀ = 5, y₀ = 7
+Distância = |-2(5) + 1(7) - 3| / √(4 + 1)
+= |-10 + 7 - 3| / √5
+= |-6| / √5
+= 6 / √5 ≈ 2,68
+Resposta: Aproximadamente 2,68 unidades.

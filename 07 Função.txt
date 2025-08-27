@@ -1,0 +1,51 @@
+
+Exercícios
+
+Exercício 1
+Resolva a equação a seguir, isolando o x: 3x + 7 = 16
+
+Exercício 2
+Resolva a equação a seguir, isolando o x: 2x - 4 = 10
+
+Exercício 3
+Resolva a equação a seguir, isolando o x: x/5 + 2 = 6
+
+Exercício 4
+Resolva a equação a seguir, isolando o x: (x - 3)/4 = 2
+____________________________________________________________________
+Resoluções
+Exercício 1:
+Passo 1: Vamos tirar o 7 que está somando do lado esquerdo. Para isso, subtraímos 7
+dos dois lados:
+3x + 7 - 7 = 16 - 7
+3x = 9
+Passo 2: Agora, o 3 está multiplicando o x. Para isolar o x, dividimos os dois lados por 3:
+3x ÷ 3 = 9 ÷ 3
+x = 3
+Resposta: x = 3
+Exercício 2:
+Passo 1: Vamos tirar o -4 do lado esquerdo. Fazemos isso somando 4 dos dois lados:
+2x - 4 + 4 = 10 + 4
+2x = 14
+Passo 2: Agora, dividimos os dois lados por 2 para isolar o x:
+2x ÷ 2 = 14 ÷ 2
+x = 7
+Resposta: x = 7
+__________________________________________________________________
+Exercício 3:
+Passo 1: Vamos tirar o 2 do lado esquerdo. Subtraímos 2 dos dois lados:
+x/5 + 2 - 2 = 6 - 2
+x/5 = 4
+Passo 2: Agora, para tirar a divisão por 5, multiplicamos os dois lados por 5:
+(x/5) × 5 = 4 × 5
+x = 20
+Resposta: x = 20
+_______________________________________________________________________
+Exercício 4:
+Passo 1: Vamos eliminar a divisão por 4. Para isso, multiplicamos os dois lados por 4:
+[(x - 3)/4] × 4 = 2 × 4
+x - 3 = 8
+Passo 2: Agora somamos 3 dos dois lados para isolar o x:
+x - 3 + 3 = 8 + 3
+x = 11
+Resposta: x = 11

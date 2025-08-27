@@ -1,0 +1,78 @@
+
+Exercícios
+
+Exercício 1
+Fatore a expressão: x² + 5x + 6
+
+Exercício 2
+Fatore a expressão: x² - 9
+
+Exercício 3
+Fatore a expressão: 2x² + 4x
+
+Exercício 4
+Fatore a expressão: x² + 10x + 25
+
+Exercício 5
+Fatore a expressão: 3x² - 12
+
+Resoluções
+Exercício 1
+Se temos uma equação do tipo:
+ax² + bx + c = 0
+As raízes são dadas por:
+x = [–b ± √(b² – 4ac)] / 2a
+Depois que encontramos as raízes x₁ e x₂, podemos escrever a fatoração como:
+a(x – x₁)(x – x₂)
+Aqui temos:
+a = 1, b = 5, c = 6
+Vamos calcular o discriminante (Δ):
+Δ = b² – 4ac = 5² – 4·1·6 = 25 – 24 = 1
+Agora usamos Bhaskara:
+x₁ = (–5 + √1)/2 = (–5 + 1)/2 = –4/2 = –2
+x₂ = (–5 – √1)/2 = (–5 – 1)/2 = –6/2 = –3
+Então, a fatoração fica:
+x² + 5x + 6 = (x + 2)(x + 3)
+______________________________________________________________________
+Exercício 2
+Fatore a expressão: x² - 9
+Reconhecemos uma diferença de quadrados:
+x² - 9 = x² - 3²
+Toda diferença de quadrados pode ser escrita como: (x - a)(x + a)
+Então:
+x² - 9 = (x - 3)(x + 3)
+Resposta: (x - 3)(x + 3)
+_______________________________________________________________________
+Exercício 3
+Fatore a expressão: 2x² + 4x
+Temos um fator comum em ambos os termos: 2x
+Colocando 2x em evidência:
+2x² + 4x = 2x(x + 2)
+Resposta: 2x(x + 2)
+_______________________________________________________________________
+Exercício 4
+Se temos uma equação do tipo:
+ax² + bx + c = 0
+As raízes são dadas por:
+x = [–b ± √(b² – 4ac)] / 2a
+Depois que encontramos as raízes x₁ e x₂, podemos escrever a fatoração como:
+a(x – x₁)(x – x₂)
+Aqui temos:
+a = 1, b = 10, c = 25
+Calculamos o discriminante (Δ):
+Δ = 10² – 4·1·25 = 100 – 100 = 0
+Como Δ = 0, temos uma raiz única:
+x = (–10 ± √0)/2 = –10/2 = –5
+Então, temos uma raiz dupla (x = –5) e a fatoração fica:
+x² + 10x + 25 = (x + 5)²
+_______________________________________________________________________
+Exercício 5
+Fatore a expressão: 3x² - 12
+Temos um fator comum: 3
+Colocamos o 3 em evidência:
+3x² - 12 = 3(x² - 4)
+Agora reparamos que x² - 4 é uma diferença de quadrados:
+x² - 4 = (x - 2)(x + 2)
+Portanto:
+3(x² - 4) = 3(x - 2)(x + 2)
+Resposta: 3(x - 2)(x + 2)

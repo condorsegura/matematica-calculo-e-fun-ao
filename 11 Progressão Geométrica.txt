@@ -1,0 +1,64 @@
+Exercícios
+
+Exercício 1
+Dada a sequência 2, 6, 18, 54, …, descubra qual é a razão da progressão geométrica.
+
+Exercício 2
+A sequência 81, 27, 9, 3, … é uma progressão geométrica? Se sim, qual é a razão?
+
+Exercício 3
+Sabendo que uma progressão geométrica tem o primeiro termo a₁ = 5 e a razão r = 3,
+qual é o 4º termo (a₄)?
+
+Exercício 4
+Em uma progressão geométrica, o primeiro termo é 2 e a razão é 4. Qual é o valor do 6º
+termo (a₆)?
+___________________________________________________________________
+Resoluções
+Exercício 1
+Temos a sequência: 2, 6, 18, 54, ...
+Para saber a razão, basta dividir qualquer termo pelo termo anterior (isso vale em
+progressões geométricas).
+Vamos dividir o segundo termo pelo primeiro:
+r = 6 ÷ 2 = 3
+Agora, confirmamos com os outros termos:
+18 ÷ 6 = 3
+54 ÷ 18 = 3
+Portanto, a razão da progressão geométrica é 3.
+______________________________________________________________________
+Exercício 2
+Sequência: 81, 27, 9, 3
+Vamos verificar se é uma PG (progressão geométrica):
+27 ÷ 81 = 1/3
+9 ÷ 27 = 1/3
+3 ÷ 9 = 1/3
+Como a razão entre todos os termos consecutivos é a mesma (1/3), então é uma PG e a
+razão é 1/3.
+_______________________________________________________________________
+Exercício 3
+Dados:
+a₁ = 5
+r = 3
+Queremos encontrar o 4º termo da PG (a₄).
+A fórmula do termo geral de uma PG é:
+aₙ = a₁ × r^(n - 1)
+Então:
+a₄ = 5 × 3^(4 - 1)
+a₄ = 5 × 3³
+a₄ = 5 × 27
+a₄ = 135
+Resposta: O 4º termo é 135.
+_______________________________________________________________________
+Exercício 4
+Dados:
+a₁ = 2
+r = 4
+Queremos saber o 6º termo (a₆).
+Usamos a fórmula do termo geral:
+aₙ = a₁ × r^(n - 1)
+a₆ = 2 × 4^(6 - 1)
+a₆ = 2 × 4⁵
+4⁵ = 1024
+a₆ = 2 × 1024
+a₆ = 2048
+Resposta: O 6º termo é 2048.

@@ -1,0 +1,56 @@
+
+Exercícios
+
+Exercício 1
+Calcule o valor de 5!
+
+Exercício 2
+Calcule 7! e explique o passo a passo.
+
+Exercício 3
+Qual é o valor de 0! ? Explique por quê.
+
+Exercício 4
+Calcule o valor de 4! + 3!
+
+Exercício 5
+Calcule o valor de (6! / 4!).
+___________________________________________________________________
+Resoluções
+Exercício 1
+O número fatorial de um número n, indicado por n!, é o produto de todos os números
+inteiros positivos de 1 até n.
+Então, 5! = 5 × 4 × 3 × 2 × 1 = 120.
+______________________________________________________________________
+Exercício 2
+7! significa multiplicar todos os números inteiros positivos de 1 até 7.
+7! = 7 × 6 × 5 × 4 × 3 × 2 × 1
+Vamos calcular passo a passo:
+7 × 6 = 42
+42 × 5 = 210
+210 × 4 = 840
+840 × 3 = 2520
+2520 × 2 = 5040
+5040 × 1 = 5040
+Portanto, 7! = 5040.
+_______________________________________________________________________
+Exercício 3
+Por definição, 0! = 1.
+Isso acontece para que algumas fórmulas matemáticas funcionem corretamente,
+especialmente em combinações e permutações. Podemos entender que o fatorial de
+zero é o produto vazio, que por convenção vale 1.
+_______________________________________________________________________
+Exercício 4
+Calculamos cada fatorial separadamente:
+4! = 4 × 3 × 2 × 1 = 24
+3! = 3 × 2 × 1 = 6
+Agora somamos: 24 + 6 = 30
+Exercício 5
+Vamos calcular 6! / 4! passo a passo:
+6! = 6 × 5 × 4 × 3 × 2 × 1 = 720
+4! = 4 × 3 × 2 × 1 = 24
+Dividindo: 720 ÷ 24 = 30
+Outra forma de pensar:
+6! / 4! = (6 × 5 × 4 × 3 × 2 × 1) / (4 × 3 × 2 × 1)
+Os termos 4 × 3 × 2 × 1 se cancelam, sobrando:
+6 × 5 = 30

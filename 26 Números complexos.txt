@@ -1,0 +1,72 @@
+
+Explicação rápida:
+Os números complexos surgiram da necessidade de resolver equações como x² + 1 = 0,
+que não têm solução nos números reais. A ideia é usar uma unidade imaginária
+chamada "i", definida como:
+i² = -1
+Com isso, dizemos que √-1 = i.
+Um número complexo tem a forma:
+z = a + bi
+Onde:
+a é a parte real
+b é a parte imaginária
+_______________________________________________________________________
+Exercícios
+
+Exercício 1
+Some os números complexos z = 4 + 3i e w = -2 + 5i
+
+Exercício 2
+Subtraia os números complexos z = 1 - 6i e w = -4 + 2i
+
+Exercício 3
+Multiplique os números complexos z = 2 + i e w = 3 - 4i
+
+Exercício 4
+Calcule o módulo do número complexo z = -3 + 4i
+
+Exercício 5
+Sabendo que z = 5 - 2i, calcule o produto de z pelo seu conjugado
+
+Resoluções
+Exercício 1
+z = 4 + 3i
+w = -2 + 5i
+Soma:
+(4 + 3i) + (-2 + 5i) = (4 - 2) + (3 + 5)i = 2 + 8i
+Resposta: 2 + 8i
+______________________________________________________________________
+Exercício 2
+z = 1 - 6i
+w = -4 + 2i
+Subtração:
+(1 - 6i) - (-4 + 2i) = (1 + 4) + (-6 - 2)i = 5 - 8i
+Resposta: 5 - 8i
+_______________________________________________________________________
+Exercício 3
+z = 2 + i
+w = 3 - 4i
+Multiplicando:
+(2 + i)(3 - 4i) = 2×3 + 2×(-4i) + i×3 + i×(-4i)
+= 6 - 8i + 3i - 4i²
+Sabemos que i² = -1, então:
+= 6 - 8i + 3i + 4
+= (6 + 4) + (-8i + 3i) = 10 - 5i
+Resposta: 10 - 5i
+Exercício 4
+z = -3 + 4i
+|z| = √((-3)² + 4²) = √(9 + 16) = √25 = 5
+Resposta: 5
+_______________________________________________________________________
+Exercício 5
+z = 5 - 2i
+O conjugado de z é z̄ = 5 + 2i
+z × z̄ = (5 - 2i)(5 + 2i)
+Utilizamos a diferença de quadrados:
+(a - b)(a + b) = a² - b²
+Aqui, a = 5 e b = 2i
+Então:
+= 5² - (2i)² = 25 - 4i²
+Como i² = -1, temos:
+= 25 - 4(-1) = 25 + 4 = 29
+Resposta: 29

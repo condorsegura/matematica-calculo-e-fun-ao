@@ -1,0 +1,62 @@
+
+Exercícios
+
+Exercício 1
+Um círculo tem raio de 5 cm. Qual é o comprimento da circunferência?
+
+Exercício 2
+Uma circunferência tem diâmetro de 12 cm. Qual é sua área?
+
+Exercício 3
+Qual é o raio de uma circunferência que possui comprimento de 31,4 cm?
+
+Exercício 4
+Uma pista circular de corrida tem 20 metros de raio. Qual é a distância percorrida em
+uma volta completa?
+
+Exercício 5
+Um canteiro de flores tem formato circular com área de 78,5 m². Qual é o comprimento
+da cerca que precisa ser colocada em volta dele?
+___________________________________________________________________
+Resoluções
+Exercício 1
+Fórmula do comprimento da circunferência:
+Comprimento = 2 × π × raio
+Vamos usar π = 3,14
+Comprimento = 2 × 3,14 × 5 = 31,4 cm
+Resposta: 31,4 cm
+______________________________________________________________________
+Exercício 2
+Fórmula da área do círculo:
+Área = π × (raio)²
+O raio é metade do diâmetro, então:
+Raio = 12 ÷ 2 = 6 cm
+Área = 3,14 × (6)² = 3,14 × 36 = 113,04 cm²
+Resposta: 113,04 cm²
+_______________________________________________________________________
+Exercício 3
+Fórmula do comprimento:
+Comprimento = 2 × π × raio
+Substituindo os valores:
+31,4 = 2 × 3,14 × raio
+31,4 = 6,28 × raio
+Agora dividimos os dois lados da equação por 6,28:
+Raio = 31,4 ÷ 6,28 = 5 cm
+Resposta: 5 cm
+Exercício 4
+Vamos usar a fórmula do comprimento:
+Comprimento = 2 × π × raio
+Comprimento = 2 × 3,14 × 20 = 125,6 metros
+Resposta: 125,6 metros
+_______________________________________________________________________
+Exercício 5
+Fórmula da área:
+Área = π × (raio)²
+78,5 = 3,14 × raio²
+Dividindo os dois lados por 3,14:
+raio² = 78,5 ÷ 3,14 = 25
+raio = √25 = 5 metros
+Agora usamos a fórmula do comprimento:
+Comprimento = 2 × π × raio
+Comprimento = 2 × 3,14 × 5 = 31,4 metros
+Resposta: 31,4 metros

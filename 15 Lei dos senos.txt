@@ -1,0 +1,100 @@
+
+Exercícios
+
+Exercício 1
+Em um triângulo, temos os seguintes dados: o lado a mede 10 cm, o ângulo A oposto a
+esse lado mede 30°, e o ângulo B mede 45°. Qual é o comprimento do lado b, oposto ao
+ângulo B?
+
+Exercício 2
+Em um triângulo, o lado b mede 12 cm, o ângulo B mede 40°, e o ângulo C mede 60°.
+Qual o comprimento do lado c?
+
+Exercício 3
+No triângulo ABC, o lado c mede 8 cm, o ângulo C mede 50°, e o ângulo A mede 65°.
+Calcule o comprimento do lado a.
+
+Exercício 4
+Em um triângulo, os lados a e b medem respectivamente 15 cm e 20 cm, e o ângulo A
+mede 40°. Calcule o ângulo B.
+
+Exercício 5
+Um barco está a 100 metros de um farol. A partir do barco, a visão de outro ponto
+costeiro forma um ângulo de 55° com a linha que liga o barco ao farol. Sabendo que o
+ângulo do ponto costeiro em relação ao barco e ao farol é de 60°, calcule a distância
+entre o farol e esse ponto costeiro.
+___________________________________________________________________
+Resoluções
+Exercício 1
+Dados: a = 10 cm, Â = 30°, ̂B = 45°
+Falta descobrir o lado b.
+Passo 1: Descobrir o ângulo C usando a soma dos ângulos de um triângulo:
+Â + ̂B + Ĉ = 180°
+30° + 45° + Ĉ = 180°
+Ĉ = 180° - 75° = 105°
+Passo 2: Aplicar a lei dos senos:
+a / sen Â = b / sen ̂B
+10 / sen 30° = b / sen 45°
+Como sen 30° = 0,5 e sen 45° ≈ 0,707, temos:
+10 / 0,5 = b / 0,707
+20 = b / 0,707
+b = 20 × 0,707 ≈ 14,14 cm
+Resposta: Aproximadamente 14,14 cm
+______________________________________________________________________
+Exercício 2
+Dados: b = 12 cm, ̂B = 40°, Ĉ = 60°
+Falta descobrir o lado c.
+Passo 1: Descobrir o ângulo A
+A = 180° - 40° - 60° = 80°
+Passo 2: Aplicar a lei dos senos
+b / sen ̂B = c / sen Ĉ
+12 / sen 40° = c / sen 60°
+sen 40° ≈ 0,643, sen 60° ≈ 0,866
+12 / 0,643 = c / 0,866
+≈ 18,66 = c / 0,866
+c = 18,66 × 0,866 ≈ 16,16 cm
+Resposta: Aproximadamente 16,16 cm
+_______________________________________________________________________
+Exercício 3
+Dados: c = 8 cm, Ĉ = 50°, Â = 65°
+Queremos o lado a.
+Passo 1: Descobrir o ângulo B
+B = 180° - 65° - 50° = 65°
+Passo 2: Aplicar a lei dos senos
+c / sen Ĉ = a / sen Â
+8 / sen 50° = a / sen 65°
+sen 50° ≈ 0,766, sen 65° ≈ 0,906
+8 / 0,766 = a / 0,906
+≈ 10,45 = a / 0,906
+a = 10,45 × 0,906 ≈ 9,47 cm
+Resposta: Aproximadamente 9,47 cm
+_______________________________________________________________________
+Exercício 4
+Dados: a = 15 cm, b = 20 cm, Â = 40°
+Queremos o ângulo B.
+Aplicamos a lei dos senos:
+a / sen Â = b / sen ̂B
+15 / sen 40° = 20 / sen ̂B
+sen 40° ≈ 0,643
+15 / 0,643 ≈ 23,34
+20 / sen ̂B = 23,34
+sen ̂B = 20 / 23,34 ≈ 0,857
+̂B ≈ arcsen(0,857) ≈ 59°
+Resposta: Ângulo B aproximadamente 59°
+_______________________________________________________________________
+Exercício 5
+Temos um triângulo com:
+lado a = 100 m (entre barco e farol),
+ângulo no ponto costeiro (Â) = 60°,
+ângulo no barco (̂B) = 55°
+Queremos o lado c, entre farol e ponto costeiro.
+Passo 1: Descobrir o ângulo C (ângulo do farol)
+Ĉ = 180° - 60° - 55° = 65°
+Passo 2: Aplicar a lei dos senos
+a / sen Â = c / sen Ĉ
+100 / sen 60° = c / sen 65°
+sen 60° ≈ 0,866, sen 65° ≈ 0,906
+100 / 0,866 ≈ c / 0,906
+≈ 115,46 = c / 0,906
+c = 115,46 × 0,906 ≈ 104,65 m
+Resposta: Aproximadamente 104,65 metros

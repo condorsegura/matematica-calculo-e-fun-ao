@@ -1,0 +1,55 @@
+Produtos Notáveis
+
+Exercícios
+
+
+Exercício 1
+Calcule o valor da expressão: (x + 3)²
+Exercício 2
+Expanda o produto: (2a - 5)²
+Exercício 3
+Calcule o resultado de (m + 7)(m - 7)
+Exercício 4
+Calcule o quadrado da soma: (3y + 4)²
+_______________________________________________________________________
+Resoluções
+Exercício 1
+Calcular (x + 3)² significa multiplicar o binômio por ele mesmo:
+(x + 3)² = (x + 3)(x + 3)
+Passo 1: Multiplicar cada termo do primeiro parêntese pelos termos do segundo:
+x * x = x²
+x * 3 = 3x
+3 * x = 3x
+3 * 3 = 9
+Passo 2: Somar os resultados:
+x² + 3x + 3x + 9 = x² + 6x + 9
+Resposta: (x + 3)² = x² + 6x + 9
+Exercício 2
+Expanda (2a - 5)² = (2a - 5)(2a - 5)
+Passo 1: Multiplique os termos:
+2a * 2a = 4a²
+2a * (-5) = -10a
+(-5) * 2a = -10a
+(-5) * (-5) = 25
+Passo 2: Some os termos semelhantes:
+4a² - 10a - 10a + 25 = 4a² - 20a + 25
+Resposta: (2a - 5)² = 4a² - 20a + 25
+_______________________________________________________________________
+Exercício 3
+Calcule (m + 7)(m - 7)
+Este é um produto da soma pela diferença, conhecido como:
+(a + b)(a - b) = a² - b²
+Aqui: a = m e b = 7
+Aplicando a fórmula:
+m² - 7² = m² - 49
+Resposta: (m + 7)(m - 7) = m² - 49
+Exercício 4
+Calcule (3y + 4)² = (3y + 4)(3y + 4)
+Passo 1: Multiplique os termos:
+3y * 3y = 9y²
+3y * 4 = 12y
+4 * 3y = 12y
+4 * 4 = 16
+Passo 2: Some os termos semelhantes:
+9y² + 12y + 12y + 16 = 9y² + 24y + 16
+Resposta: (3y + 4)² = 9y² + 24y + 16

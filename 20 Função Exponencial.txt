@@ -1,0 +1,65 @@
+
+Exercícios
+
+Exercício 1
+Uma função exponencial é dada por f(x) = 2ˣ. Calcule o valor de f(3).
+
+Exercício 2
+Considere a função g(x) = 5ˣ. Calcule o valor de g(0) e g(2).
+
+Exercício 3
+Qual é o valor de x tal que 3ˣ = 27?
+
+Exercício 4
+A função h(x) = (1/2)ˣ representa o valor de um remédio no sangue após x horas. Qual o
+valor da função após 4 horas?
+
+Exercício 5
+Uma bactéria dobra a cada 3 horas. Se no início havia 200 bactérias, quantas bactérias
+existirão após 12 horas?
+___________________________________________________________________
+Resoluções
+Exercício 1
+Temos f(x) = 2ˣ.
+Queremos f(3), então substituímos x por 3:
+f(3) = 2³
+= 2 × 2 × 2
+= 8
+Resposta: f(3) = 8
+______________________________________________________________________
+Exercício 2
+Temos g(x) = 5ˣ.
+Vamos calcular g(0):
+g(0) = 5⁰ = 1 (qualquer número elevado a zero é 1)
+Agora, g(2):
+g(2) = 5² = 5 × 5 = 25
+Resposta: g(0) = 1 e g(2) = 25
+_______________________________________________________________________
+Exercício 3
+Queremos saber qual valor de x torna 3ˣ igual a 27.
+Sabemos que:
+3¹ = 3
+3² = 9
+3³ = 27
+Portanto, x = 3
+Resposta: x = 3
+Exercício 4
+h(x) = (1/2)ˣ
+Queremos h(4):
+h(4) = (1/2)⁴
+= 1/2 × 1/2 × 1/2 × 1/2
+= 1/16
+Resposta: h(4) = 1/16
+_______________________________________________________________________
+Exercício 5
+A bactéria dobra a cada 3 horas.
+Isso quer dizer que a quantidade cresce de forma exponencial.
+Número de períodos de 3 horas em 12 horas:
+12 ÷ 3 = 4 períodos
+A cada período a quantidade dobra.
+Começamos com 200, então:
+Após 1 período: 200 × 2 = 400
+Após 2 períodos: 400 × 2 = 800
+Após 3 períodos: 800 × 2 = 1600
+Após 4 períodos: 1600 × 2 = 3200
+Resposta: 3200 bactérias após 12 horas
